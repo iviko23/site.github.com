@@ -1,0 +1,25 @@
+body{
+    background-color:rgb(82, 80, 80);
+}
+.contain{
+width: 500px;
+height: 400px;
+background-color: rgb(192, 187, 192);
+border-radius: 50px; 
+
+
+}
+.title{
+margin-top: -423px;
+}
+.info{
+ transform: translateY(450px);
+}
+.cou{
+    
+    transform: translateY(500px);
+}
+.sam{
+    transform: translateX(-93px);
+    transform: translateY(-133px);
+}
